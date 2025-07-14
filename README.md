@@ -1,6 +1,6 @@
 <h2 align="center"> 🕹️ GPT-3 Sandbox </h2>
 
-<h3 align="center">🧠 Powered by <ins>Kairos Data Labs</ins><sup><a  href="https://www.linkedin.com/company/kairos-data-labs">[?]</a></sup> </h3>
+<h3 align="center">🧠 Powered by <ins>The Unwind AI </ins><sup><a  href="https://theunwindai.com/">[?]</a></sup> </h3>
 
 
 > 🏁: **You need access to the OpenAI API Key to play with this Sandbox**: If you dont have the access to the API, please apply [here](https://platform.openai.com/) ✌️
@@ -64,7 +64,7 @@ streamlit run gpt_app.py
 
 
 ## 🔗 Connect With Us
-* We are Shubham - [LinkedIn](https://www.linkedin.com/in/shubhamsaboo/) | [Twitter](https://twitter.com/Saboo_Shubham_) and Sandra - [LinkedIn](https://www.linkedin.com/in/sandrakublik/) | [Twitter](https://twitter.com/sandra_kublik), co-founders of [Kairos Data Labs](https://www.linkedin.com/company/kairos-data-labs) 
+* We are Shubham - [LinkedIn](https://www.linkedin.com/in/shubhamsaboo/) | [Twitter](https://twitter.com/Saboo_Shubham_) and Sandra - [LinkedIn](https://www.linkedin.com/in/sandrakublik/) | [Twitter](https://twitter.com/sandra_kublik)
 * We are super excited to have you here. Our mission is to make the [GPT-3 Sandbox](https://github.com/Shubhamsaboo/kairos_gpt3) accessbile and usable to everyone who wants to build applications with OpenAI's GPT-3 ❤️ 
 * Come by 🤗 [the forum](https://github.com/Shubhamsaboo/kairos_gpt3) if you'd like to ask questions, post an awesome app, or just say Hi!
 
@@ -72,6 +72,6 @@ streamlit run gpt_app.py
 ## 📖 Reference Resources
 For your reference we have created an array of applications to take inspiration from and come up with new ideas that can be useful for the community in General 
 
-* [Unwind AI](https://unwindai.substack.com/) - A weekly AI newsletter to help you stay updated with the latest AI trends!
+* [Unwind AI](https://theunwindai.com/) - A Daily AI newsletter for developers to stay up-to-date with AI Agents, RAG and LLMs
 * [GPT-3 Applications](https://shubhamsaboo111.medium.com/) - Walkthrough tutorials of building applications with GPT-3 in Python.
 * [Video Tutorials/examples](https://www.youtube.com/channel/UCWRXc4CeXy5f0dQdJ2XWliw)
